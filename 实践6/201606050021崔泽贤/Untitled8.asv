@@ -1,0 +1,7 @@
+
+syms x
+f1=81/x^4
+EX=int(f1*x,x,3,inf)
+DX=int((x-EX)^2*f1,x,3,inf)
+f2=92/3)
+EX1=
